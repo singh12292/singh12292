@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ankit Singh
-- 👀 I’m interested in Android Appication Development
+- 👀 I’m interested in Android Application Development
 - 🌱 I’m currently learning new techniques for developing android application
 - 💞️ I’m looking to collaborate on android applications
 - 📫 Reach me at singh.ankit12292@yahoo.in
